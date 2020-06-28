@@ -1,9 +1,9 @@
 <p align="Center">
-Created by <a href="https://github.com/abhat222"><strong>Asif Bhat</strong></a>
+Created by <a href="https://github.com/abhat222"><strong></strong></a>
 </p>
  
  <p align="Center">
- LinkedIn <a href="https://www.linkedin.com/in/asif-bhat/"><strong>Asif Bhat</strong></a>
+ LinkedIn <a href="https://www.linkedin.com/in/asif-bhat/"><strong></strong></a>
 </p>
  
 # Data Science Cheatsheets
